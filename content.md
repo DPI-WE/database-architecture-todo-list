@@ -28,7 +28,7 @@ I find it helpful to use paper or a spreadsheet to actually draw out all my tabl
 
 Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and share your url. It should be something like this: `docs.google.com/spreadsheets/<...>`. Make sure anyone with the link can view.
 
-![](/assets/anyone-with-link.png)
+![](assets/anyone-with-link.png)
 
 - Enter your `docs.google.com/spreadsheets` shared URL:
 - `docs.google.com/spreadsheets`
