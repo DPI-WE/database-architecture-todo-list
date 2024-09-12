@@ -16,7 +16,7 @@ You can sign in with any of the following (all of their passwords are **password
 - eve@example.com
 - Or you can sign up for your own new account (it doesn't need to be a real email address).
 
-It's aim is simple; it allows you to keep track of the status of your todo list itens.
+It's aim is simple; it allows you to keep track of the status of your todo list items.
 
 Try to figure out what database tables back this app. In order to test your database design, what questions can you ask? "Are we able to...?"
 
