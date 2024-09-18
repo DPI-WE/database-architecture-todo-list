@@ -44,6 +44,15 @@ After you submit the URL here, return to Canvas and submit the URL again in the 
 An instructor will provide additional feedback on your submission there.
 </div>
 
+Please create an Entity Relationship Diagram (ERD) using the [Ideas Tool](https://ideas.firstdraft.com/) and share a screenshot.
+
+<div class="alert alert-danger mt-2">
+
+Return to Canvas and submit your screenshot in the assignment "Todo List: Entity Relationship Diagram (ERD)".
+
+An instructor will provide additional feedback on your submission there.
+</div>
+
 ---
 
 - Approximately how long (in minutes) did this lesson take you to complete?
