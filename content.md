@@ -31,11 +31,11 @@ Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and
 ![](assets/anyone-with-link.png)
 
 - Enter your `docs.google.com/spreadsheets` shared URL:
-- `docs.google.com/spreadsheets`
+- `docs.google.com/spreadsheets/d/id/edit?usp=sharing`
   - Great job!
 - any
-  - Not quite. Make sure the URL looks like: `docs.google.com/spreadsheets`
-{: .free_text #github_profile_url title="GitHub profile URL" points="1" answer="1" }
+  - Not quite. Make sure the URL looks like: `docs.google.com/spreadsheets/d/id/edit?usp=sharing`
+{: .free_text #spreadsheet_url title="Todo List: Spreadsheet URL" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
