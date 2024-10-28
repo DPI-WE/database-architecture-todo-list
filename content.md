@@ -30,7 +30,7 @@ Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and
 
 ![](assets/anyone-with-link.png)
 
-- Did you create a spreadsheet with your data model and sample data rows?
+- Did you create a spreadsheet with the tables, columns, and rows of sample data?
 - Yes
   - Great job!
 - No
