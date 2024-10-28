@@ -30,12 +30,12 @@ Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and
 
 ![](assets/anyone-with-link.png)
 
-- Enter your `docs.google.com/spreadsheets` shared URL:
-- `docs.google.com/spreadsheets/d/id/edit?usp=sharing`
+- Did you create a spreadsheet with your data model and sample data rows?
+- Yes
   - Great job!
-- any
-  - Not quite. Make sure the URL looks like: `docs.google.com/spreadsheets/d/id/edit?usp=sharing`
-{: .free_text #spreadsheet_url title="Todo List: Spreadsheet URL" points="1" answer="1" }
+- No
+  - Please create a spreadsheet before continuing.
+{: .choose_best #spreadsheet_url title="Todo List: Spreadsheet URL" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
